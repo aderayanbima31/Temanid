@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360083187873",
+    "firebase_url": "https://temanid-3fcec.firebaseio.com",
+    "project_id": "temanid-3fcec",
+    "storage_bucket": "temanid-3fcec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360083187873:android:34204921d0bd9a6b",
+        "android_client_info": {
+          "package_name": "com.mra.temanid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360083187873-7kckqj2ttvtgv4fajmdlih6o6cfptkos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFNBEoUTMML8YiDdUvf4laPkewE-3pBIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
